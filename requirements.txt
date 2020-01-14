@@ -1,0 +1,10 @@
+black
+flake8-bugbear
+flake8
+ipython
+isort
+jupyter
+mypy
+pre-commit
+pydocstyle
+pytest

@@ -1,0 +1,12 @@
+.venv
+**/.env
+node_modules
+mecab-ipadic-neologd
+.mypy_cache
+fastText
+neologd.csv
+key.json
+cc.*.300.bin
+cc.en.300.bin
+cc.jp.300.bin
+all.csv
