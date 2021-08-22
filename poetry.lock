@@ -190,7 +190,7 @@ python-versions = "*"
 
 [[package]]
 name = "html2text"
-version = "2019.9.26"
+version = "2020.1.16"
 description = "Turn HTML into equivalent Markdown-structured text."
 category = "main"
 optional = false
@@ -1077,7 +1077,7 @@ testing = ["pathlib2", "contextlib2", "unittest2"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "89c5b7fe627c2dcb8282085b1af16357ac0c77ee53eb65ab0336a803e98ab799"
+content-hash = "3597451e1d4d7d21f6b15c51b1981ec5e75927407164b4fd828690a8d0a2cf38"
 
 [metadata.files]
 appdirs = [
@@ -1178,8 +1178,8 @@ greenlet = [
     {file = "greenlet-0.4.15.tar.gz", hash = "sha256:9416443e219356e3c31f1f918a91badf2e37acf297e2fa13d24d1cc2380f8fbc"},
 ]
 html2text = [
-    {file = "html2text-2019.9.26-py3-none-any.whl", hash = "sha256:55ce85704f244fc18890c5ded89fa22ff7333e41e9f3cad04d51f48d62ad8834"},
-    {file = "html2text-2019.9.26.tar.gz", hash = "sha256:6f56057c5c2993b5cc5b347cb099bdf6d095828fef1b53ef4e2a2bf2a1be9b4f"},
+    {file = "html2text-2020.1.16-py3-none-any.whl", hash = "sha256:c7c629882da0cf377d66f073329ccf34a12ed2adf0169b9285ae4e63ef54c82b"},
+    {file = "html2text-2020.1.16.tar.gz", hash = "sha256:e296318e16b059ddb97f7a8a1d6a5c1d7af4544049a01e261731d2d5cc277bbb"},
 ]
 identify = [
     {file = "identify-1.4.9-py2.py3-none-any.whl", hash = "sha256:72e9c4ed3bc713c7045b762b0d2e2115c572b85abfc1f4604f5a4fd4c6642b71"},
